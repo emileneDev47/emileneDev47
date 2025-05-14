@@ -1,7 +1,6 @@
 Olá! Eu sou Emilene Costa Machado. 👩🖐
-💻Formada em Análise e Desenvolvimento de Sistemas em fevereiro do ano de 2025 pela universidade Unicesumar. Sou uma das embaixadoras do Dio Campus Expert turma 11/2025.
-
-🚀 Atualmente estou cursando pós-graduação em Ciência de Dados na universidade Unicesumar pólo de Angra dos Reis. Também participo de  bootcamps na plataforma de tecnologia [dio.me]() onde fui selecionada para ser uma das embaixadoras da turma 11/2025 no programa Dio Campus Expert ali estou aprendendo a desenvolver minhas habilidades ténicas de GitHub, Linkedin , java e iniciando alguns projetos. 🖐
+💻Recém formada em Análise e Desenvolvimento de Sistemas em fevereiro do ano de 2025 pela universidade Unicesumar. 
+🚀 Atualmente estou cursando pós-graduação em Ciência de Dados na universidade Unicesumar pólo de Angra dos Reis. Também participo de bootcamps na plataforma de tecnologia [dio.me]() onde fui selecionada para ser uma das embaixadoras da turma 11/2025 no programa Dio Campus Expert ali estou aprendendo a desenvolver minhas habilidades comportamentais e técnicas como GitHub, Linkedin , java e iniciando alguns projetos. 🖐
 
 Perfil Público na Dio :
 
